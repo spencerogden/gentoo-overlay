@@ -22,7 +22,7 @@ IUSE=""
 
 RDEPEND="
 	app-crypt/mit-krb5
-	=dev-db/unixODBC-2.3.0*
+	=dev-db/unixODBC-2.3*
 	=dev-libs/openssl-1.0.1*"
 DEPEND="${RDEPEND}"
 
